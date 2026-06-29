@@ -34,7 +34,7 @@ Note `cosmic_ray_ex.m` requires the dataset specified in the paper.
 
 If you use this code for your research, please cite the associated paper:
 
-bibtex
+```bibtex
 @article{mosso2026hardconstrained,
   title={Hard-Constrained Sampling on Embedded Riemannian Manifold via Adjoint Schrödinger Bridges},
   author={Mosso, Mattia and Choi, Jaemoo and Yang, Heng},
