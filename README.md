@@ -18,6 +18,7 @@ Implemented for manifolds with known analytical heat kernels and parallel transp
 Implemented for general embedded Riemannian manifolds ($c(x)=0$) where analytical transport is unavailable. Uses Projection-as-Transport (PAT) and a Projected Chord Corrector.
 * `alg2_stiefel.m`: Models probability distributions of orthogonal matrices on the Stiefel manifold.
 * `alg2_robotics.m`: Solves a high-dimensional inverse kinematics problem for a 10-DOF planar robot subject to hard loop-closure constraints and obstacle avoidance.
+* `asbs_m_wahba_so3.m`: Solves the Robust Wahba problem, serving as a stochastic optimizer (the csv file reports the related results).
 
 ## Dependencies and Usage
 
