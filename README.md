@@ -39,6 +39,6 @@ If you use this code for your research, please cite the associated paper:
 @article{mosso2026hardconstrained,
   title={Hard-Constrained Sampling on Embedded Riemannian Manifold via Adjoint Schrödinger Bridges},
   author={Mosso, Mattia and Choi, Jaemoo and Yang, Heng},
-  journal={arXiv preprint arXiv:26XX.XXXXX},
+  journal={arXiv preprint arXiv:2608.25838},
   year={2026}
 }
