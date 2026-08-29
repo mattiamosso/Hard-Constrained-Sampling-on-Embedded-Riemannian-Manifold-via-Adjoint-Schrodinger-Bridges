@@ -9,7 +9,7 @@ The codebase provides a framework for sampling from unnormalized Boltzmann distr
 The repository is organized into two primary algorithmic approaches:
 
 ### 1. ASBS-M (Algorithm 1)
-Implemented for manifolds with known analytical heat kernels and parallel transport (e.g., $\mathbb{S}^n$, $\mathbb{T}^n$, $SO(3)$).
+Implemented for manifolds with known analytical heat kernels and parallel transport (e.g., $\mathbb{S}^n$, $\mathbb{T}^n$, SO(3)).
 * `asbs_sphere_sampler.m`: Benchmarks the sampler against a bi-modal distribution on $\mathbb{S}^2$.
 * `earthquake_sphere_ex.m`: Applies the sampler to global earthquake distribution data.
 * `cosmic_ray_ex.m`: Generates arrival direction samples constrained to the hemisphere $\mathbb{S}_{+}^2$.
