@@ -5,7 +5,7 @@ In the code, `ASBS-M` denotes R-ASBS (Algorithm 1) or Extended R-ASBS (Algorithm
 
 | Script | Experiment | Sampler | Baselines |
 |---|---|---|---|
-| `cosmic_ray.m` | Cosmic ray arrivals' distribution on the semi-sphere |
+| `cosmic_ray.m` | Cosmic ray arrivals' distribution on the semi-sphere | R-ASBS | - |
 | `earthquake_sphere.m` | Earthquake density on S^2 | R-ASBS | Riemannian ULA / MALA, Riemannian flow matching |
 | `stiefel.m` | Expected energy on the Stiefel manifold V(4,2) | Extended R-ASBS | Geodesic Monte Carlo, Riemannian ULA, exact reference |
 | `robotics.m` | Closed-loop 10-DOF chain with obstacles | Extended R-ASBS | HardFlow, constrained MCMC |
